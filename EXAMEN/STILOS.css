@@ -2,10 +2,22 @@ div h1{
     text-align-last: center;
     background-color: #86beff;
 }
-
-
-
-
+.ENERO{
+    color: #980000;
+    background: #ffc9d8;
+    padding-top: 1px;
+    padding-right: 30px;
+    padding-left: 23px;
+    padding-bottom: 1px;
+}
+.FEBRERO{
+    color: #986300;
+    background: #fff0c9;
+    padding-top: 1px;
+    padding-right: 30px;
+    padding-left: 23px;
+    padding-bottom: 1px;
+}
 li {
     color: #0059e6;
 }
@@ -16,5 +28,4 @@ li {
     padding-right: 30px;
     padding-left: 23px;
     padding-bottom: 1px;
-
 }
