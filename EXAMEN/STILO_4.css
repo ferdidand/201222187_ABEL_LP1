@@ -1,0 +1,10 @@
+h1{
+   color: chocolate;
+   text-align: center
+}
+div > p{
+    color: #6f6f38;
+}
+div >p >span{
+    color: #2fba3f;
+}
