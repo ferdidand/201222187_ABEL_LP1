@@ -1,9 +1,7 @@
-*h2+h3{
-    color: crimson;
-}
 div h1{
     text-align-last: center;
     background-color: #d6e4f5;
+    color: #779ef5;
 }
 .ENERO{
     color: #980000;
@@ -55,4 +53,9 @@ li {
     padding-right: 30px;
     padding-left: 23px;
     padding-bottom: 1px;
+}
+h2, h3{
+    color: #148fdc;
+    text-align-last: center;
+    background: #87f866
 }
