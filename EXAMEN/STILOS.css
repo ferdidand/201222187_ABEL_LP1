@@ -83,7 +83,11 @@ h2, h3{
     color: #148fdc;
 }
 .FIN{
-    border-radius: 900px;
+    border-radius: 1000px;
     text-align-last: center;
     background: #ff0000;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 23px;
+    padding-bottom: 10px;
 }
