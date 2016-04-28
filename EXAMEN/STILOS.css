@@ -65,3 +65,14 @@ h2, h3{
     text-align-last: center;
     background: #87f866
 }
+#culmino{
+    color: #170098;
+    background: #ffc9f3;
+    padding-top: 1px;
+    padding-right: 30px;
+    padding-left: 23px;
+    padding-bottom: 1px;
+}
+.FIN_MES #culmino span{
+    color: #148fdc;
+}
