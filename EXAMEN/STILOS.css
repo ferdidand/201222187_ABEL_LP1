@@ -29,28 +29,25 @@ li {
     padding-left: 23px;
     padding-bottom: 1px;
 }
-.FEBRERO{
-    color: #980000;
-    background: #ffc9d8;
+.ABRIL{
+    color: #009835;
+    background: #c9ffe2;
     padding-top: 14px;
     padding-right: 30px;
     padding-left: 23px;
     padding-bottom: 14px;
 }
-.MARZO{
-    color: #986300;
-    background: #fff0c9;
+.MAYO{
+    color: #008698;
+    background: #c9f7ff;
     padding-top: 14px;
     padding-right: 30px;
     padding-left: 23px;
     padding-bottom: 14px;
 }
-li {
-    color: #0059e6;
-}
-#FIN_DE_TRIMESTRE{
-    color: #003a98;
-    background: #c9d6ff;
+#FIN_DE_2TRIMESTRE{
+    color: #985200;
+    background: #ffeac9;
     padding-top: 1px;
     padding-right: 30px;
     padding-left: 23px;
