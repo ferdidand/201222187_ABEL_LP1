@@ -1,0 +1,13 @@
+*{
+    background: #f2f0cb
+}
+body{
+    padding-top: 14px;
+    padding-right: 300px;
+    padding-left: 230px;
+    padding-bottom: 20px;
+    color: coral;
+}
+div h1{
+    color: #a29d5c;
+}
