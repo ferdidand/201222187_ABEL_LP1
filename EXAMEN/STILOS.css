@@ -29,3 +29,30 @@ li {
     padding-left: 23px;
     padding-bottom: 1px;
 }
+.FEBRERO{
+    color: #980000;
+    background: #ffc9d8;
+    padding-top: 14px;
+    padding-right: 30px;
+    padding-left: 23px;
+    padding-bottom: 14px;
+}
+.MARZO{
+    color: #986300;
+    background: #fff0c9;
+    padding-top: 14px;
+    padding-right: 30px;
+    padding-left: 23px;
+    padding-bottom: 14px;
+}
+li {
+    color: #0059e6;
+}
+#FIN_DE_TRIMESTRE{
+    color: #003a98;
+    background: #c9d6ff;
+    padding-top: 1px;
+    padding-right: 30px;
+    padding-left: 23px;
+    padding-bottom: 1px;
+}
