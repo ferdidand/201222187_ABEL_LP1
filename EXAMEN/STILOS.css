@@ -4,6 +4,11 @@ body{
     padding-left: 230px;
     padding-bottom: 20px;
 }
+dav{
+   border: 1px solid #000000;
+   border-radius: 18px;
+   border-right-color: aquamarine;
+}
 div h1{
     text-align-last: center;
     background-color: #d6e4f5;
