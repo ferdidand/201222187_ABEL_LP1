@@ -82,3 +82,8 @@ h2, h3{
 .FIN_MES #culmino span{
     color: #148fdc;
 }
+.FIN{
+    border-radius: 900px;
+    text-align-last: center;
+    background: #ff0000;
+}
